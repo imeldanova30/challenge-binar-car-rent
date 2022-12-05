@@ -1,0 +1,72 @@
+.car-card-detail{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.card{
+    padding: 24px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+
+
+.text-detail{
+    width: 560px;
+}
+
+.car-search-detail{
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+
+.cardetail-img-bg {
+    padding: 28px 67px;
+}
+
+.img-detail{
+    width: 270px;
+}
+
+.cardetail-result-desc {
+    padding: 24px;
+}
+
+.cardetail-result-title-p-bg {
+    margin-bottom: 71px;
+}
+
+.cardetail-result-title-p {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: black;
+    margin: 0;
+}
+
+.cardetail-result-price-bg {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardetail-result-total-p {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: black;
+    margin: 0;
+}
+
+.cardetail-result-price-p-bg {
+    margin-bottom: 60px;
+}
+
+.cardetail-result-price-p {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: black;
+    margin: 0;
+}
